@@ -23,3 +23,8 @@ In the past 30 years we've moved from manual QA testing of release candidates to
 
 This talk is your guide to Continuous Performance Engineering, aka Continuous Benchmarking. We will cover standard benchmarking frameworks and how to automate them in CI, automating deployments of large end-to-end environments, how to tune your infrastructure for minimum noise and maximum repeatability, and using change point detection to automatically alert on performance regressions with a minimal amount of those annoying false positives.
 
+
+## Credits
+
+Social media image: https://www.flickr.com/photos/fcrippa/9174011399/ Francesco Crippa
+
