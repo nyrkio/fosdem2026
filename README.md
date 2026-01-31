@@ -2,7 +2,15 @@
 
 ## Slides and material for Henrik's talk at Fosdem 2026 - Continuous Performance Engineering HowTo
 
-This is a work in progress. For the next 48 hours I will be creating most of my presentation materials.
+Update: Uploaded 99% ready materials for tomorrows talk. Thanks to everyone for the feedback and encouragement.
+
+Also uploaded a longer version which cannot possibly fit into 30 minutes. Will do some kind of "directors cut" or maybe a series of webinars after Fosdem.
+
+Fosdem verision: https://github.com/nyrkio/fosdem2026/blob/main/Fosdem%202026_%20Continuous%20Performance%20Engineering%20HowTo%20(bw%20short).pdf
+
+Directors cut version: https://github.com/nyrkio/fosdem2026/blob/main/Continuous%20Performance%20Engineering%20HowTo%20(bw)%20-%20Long%20Directors%20Cut.pdf
+
+
 If you are reading this you are welcome to help. Communication channels:
 
 * This repository.
@@ -10,8 +18,7 @@ If you are reading this you are welcome to help. Communication channels:
 * Social
    * https://twitter.com/h_ingo
    * https://www.linkedin.com/in/heingo/?_l=en_US
-* To start, I will be using [this Google Doc](https://docs.google.com/document/d/16KhqOTHztBcKI2kCDagVE93k4lCjJl5qP1gG87qt2ko/edit?tab=t.0) as a scratchpad to create an outline, collect referenses
-* Most likely will use Google also for the slides
+
 
 ## The talk
 
